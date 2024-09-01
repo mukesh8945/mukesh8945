@@ -40,13 +40,32 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="80" height="80"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Microservices" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="microservices" width="80" height="80"/>
-</a>
-
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="hibernate" width="80" height="80"/>
 </a>
+
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="80" height="80"/>
+</a>
+<a href="https://spring.io/tools" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="sts" width="80" height="80"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" width="80" height="80"/>
+</a>
+<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="80" height="80"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="80" height="80"/>
+</a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="80" height="80"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postman" width="80" height="80"/>
+</a>
+
 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh8945&show_icons=true&locale=en&layout=compact" alt="mukesh8945" /></p>
