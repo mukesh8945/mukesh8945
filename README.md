@@ -47,9 +47,7 @@
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="80" height="80"/>
 </a>
-<a href="https://spring.io/tools" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="sts" width="80" height="80"/>
-</a>
+
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" width="80" height="80"/>
 </a>
