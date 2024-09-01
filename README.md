@@ -57,12 +57,15 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="80" height="80"/>
 </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="80" height="80"/>
-</a>
+
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postman" width="80" height="80"/>
 </a>
+
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="80" height="80"/>
+</a>
+
 
 
 </p>
