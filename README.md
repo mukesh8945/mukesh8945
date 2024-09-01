@@ -35,6 +35,12 @@
   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="80" height="80"/> </a> 
+ <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img  
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" 
+        width="80" 
+        height="80" 
+      />
+    </a>
  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"> </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh8945&show_icons=true&locale=en&layout=compact" alt="mukesh8945" /></p>
 
