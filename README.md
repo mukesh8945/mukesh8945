@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Microservices" target="_blank" rel="noreferrer">
-    <img src="https://example.com/path-to-microservices-icon.svg" alt="microservices" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="microservices" width="80" height="80"/>
 </a>
 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
