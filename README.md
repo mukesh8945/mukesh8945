@@ -6,15 +6,11 @@
 <p align="left"><a href="https://www.linkedin.com/in/mukesh-kumar-455a07236/" target="_blank"><img src="https://img.shields.io/badge/connect%20with%20me-on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a>
 </p>
 
-- 🌱 I’m currently learning **Devops**
 ✔️ I have experience in Full Stack development.
-
 ✔️ I am currently wokring on a HealthCare Project for HCSC.
+✔️🌱 I’m currently learning **Devops**
 - 📄 **Portfolio** <a href="https://portfolio-mk28.vercel.app/" class="btn btn-secondary">Visit</a>
 
-
-
-- ⚡ Talk is cheap, Let's see my code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
