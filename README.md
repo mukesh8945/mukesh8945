@@ -1,19 +1,20 @@
 
 <h1 align="center">Hello 👋, I'm MUKESH KUMAR</h1>
-<h3 align="center">A passionate  Java  Developer || React Developer || Oracle Developer.</h3>
+<h3 align="center">Backend Developer || React.js Developer</h3>
 <p><img align="right" alt="coding" width="1010" height="300" src="https://media1.tenor.com/m/bgjttZOc9_IAAAAC/java.gif"> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukesh8945&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh8945" /> </p>
 <p align="left"><a href="https://www.linkedin.com/in/mukesh-kumar-455a07236/" target="_blank"><img src="https://img.shields.io/badge/connect%20with%20me-on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a>
 </p>
 
 - 🌱 I’m currently learning **Devops**
+✔️ I have experience in Full Stack development.
 
-- 📄 **Resume** <a href="https://drive.google.com/file/d/1axlBZAqFwVOv3T54T2UG72grjIQW19gh/view?usp=sharing" class="btn btn-secondary py-4 px-5">Download CV</a>
-- 📄 **Portfolio** <a href="portfolio-nine-pi-10.vercel.app" class="btn btn-secondary">Visit</a>
+✔️ I am currently wokring on a HealthCare Project for HCSC.
+- 📄 **Portfolio** <a href="https://portfolio-mk28.vercel.app/" class="btn btn-secondary">Visit</a>
 
 
 
-- ⚡ Fun fact **I'm always in sleeping mode🤣**
+- ⚡ Talk is cheap, Let's see my code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
