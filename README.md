@@ -15,8 +15,6 @@
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **Java, Spring Boot, React, Docker, MySQL**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mukesh-kumar-455a07236/)
-- 📄 Portfolio: [Visit My Portfolio](https://portfolio-mk28.vercel.app/)
-
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
