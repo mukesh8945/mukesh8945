@@ -6,7 +6,7 @@
 
 - 💻 Software Engineer @Supath info
 - 👨‍💻 All of my projects are available at [https://github.com/mukesh8945](https://github.com/mukesh8945)
-- 📝 I like to pen my knowledge and experience on [https://medium.com/@yryadavmukesh/](https://medium.com/@yryadavmukesh)
+- 📝 I like to pen my knowledge and experience on [https://medium.com/@mukeshkumar2002/](https://medium.com/@mukeshkumar2002)
 - 💬 Ask me about **React, Open Source, Content Writing and Community building**
 - 📫 How to reach me **mukeshkumarit2002@gmail.com**
 - ⚡ Fun fact **Ready to talk about spirtiuality, fashion and technology anytime!**
@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/mukeshk038/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-<a href="https://medium.com/@yryadavmukesh" target="_blank">
+<a href="https://medium.com/@mukeshkumar2002" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
