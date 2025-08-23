@@ -1,73 +1,44 @@
-<h1 align="center">Hello 👋, I'm MUKESH KUMAR</h1>
-<h3 align="center">Backend Developer | React.js Developer | Full Stack Enthusiast</h3>
+## Hello everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" ></h2>
+<h1 align="center">I'm Ankita Ugale</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukesh8945&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaugale23" alt="ankitaugale23" /> </p>
+<br />
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/bgjttZOc9_IAAAAC/java.gif" alt="Coding" width="1000" height="300" />
-</p>
+- 💻 Software Engineer @Browserstack
+- 👨‍💻 All of my projects are available at [https://github.com/ankitaugale23](https://github.com/ankitaugale23)
+- 📝 I like to pen my knowledge and experience on [https://ankita-ugale.medium.com/](https://ankita-ugale.medium.com/)
+- 💬 Ask me about **React, Open Source, Content Writing and Community building**
+- 📫 How to reach me **ankitaugale23@gmail.com**
+- ⚡ Fun fact **Ready to talk about spirtiuality, fashion and technology anytime!**
 
----
+<br/>
 
-- 🔭 I’m currently working on a **HealthCare Project for HCSC**
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Java, Spring Boot, React, Docker, MySQL**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mukesh-kumar-455a07236/)
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mukesh-kumar-455a07236/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://x.com/mukesh__0302" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/muk802211/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="50" height="50"/></a>
-  <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://hibernate.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50"/></a>
-  <a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50"/></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/></a>
-  <a href="https://tomcat.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="50" height="50"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/></a>
- <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="50" height="50" />
+<a href="https://github.com/ankitaugale23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitaugale23&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaugale23&theme=buefy&layout=compact" />
 </a>
 
-  <a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/></a>
-</p>
+<br/>
 
----
-
-<h3>📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh8945&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh8945&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh8945&" alt="GitHub Streak" /></p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/ankitaugale23" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ugale_ankita" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ankita-ugale-333b21199/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/ankitawritess" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/its____ankita/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://ankita-ugale.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
