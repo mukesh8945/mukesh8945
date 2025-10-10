@@ -1,3 +1,8 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/6YbNwVf/developer-header.png" alt="Developer Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there! 👋 I'm Mukesh Kumar</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="wave" />
@@ -11,18 +16,18 @@
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 
-- 👨‍💻 Passionate developer building projects using **React, Open Source, Content Writing & Community Building**.
-- ✍️ Sharing knowledge on [Medium](https://medium.com/@mukeshkumar2002)
-- 📫 Reach out: **mukeshkumarit2002@gmail.com**
-- ⚡ Fun fact: Always down to chat about **spirituality, fashion, and technology**!
+- 👨‍💻 Developer passionate about **React, Open Source, Content Writing & Community Building**  
+- ✍️ I write on [Medium](https://medium.com/@mukeshkumar2002)  
+- 📫 Reach out: **mukeshkumarit2002@gmail.com**  
+- ⚡ Fun fact: Always open to chat about **spirituality, fashion, and tech**!
 
 ---
 
 ### 📂 Projects
 
-Check out all my repositories here: [github.com/mukesh8945](https://github.com/mukesh8945)
+All my work is here: [github.com/mukesh8945](https://github.com/mukesh8945)
 
 ---
 
