@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/6YbNwVf/developer-header.png" alt="Developer Banner" width="100%" />
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" alt="Developer Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi there! 👋 I'm Mukesh Kumar</h1>
 <p align="center">
