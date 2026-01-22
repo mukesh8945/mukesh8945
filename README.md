@@ -1,10 +1,10 @@
-# 👋 Welcome to Vikas Rajput’s GitHub
+# 👋 Welcome to Mukesh Kumar's GitHub
 
-### 💼 Senior Java Full Stack Consultant | 🧠 Founder of [Techxplore.io](https://techxplore.io)
+### 💼 Full Stack Developer | 🧠 Building our own business 
 
-**Vikas Rajput** is a highly experienced **Java Full Stack Consultant** with over **11 years of expertise** in building robust, scalable, and secure software solutions. He is the **Founder of TechXplore.io**, a software development company that helps startups and enterprises bring their digital ideas to life.
+**Mukesh Kumar** is a highly experienced **Java Full Stack Development** with over **2+ years of expertise** in building robust, scalable, and secure software solutions.
 
-He has successfully delivered numerous enterprise-grade applications using Java, Spring Boot, Microservices architecture, Docker, and Kubernetes, along with cutting-edge frontend technologies like Angular, React, and Vue.js. Vikas is also well-versed in cloud platforms, including AWS, Azure, and Google Cloud Platform (GCP).
+He has successfully delivered numerous enterprise-grade applications using Java, Spring Boot, Microservices architecture, Docker, and Kubernetes, along with cutting-edge frontend technologies like Angular, React, and Vue.js. Mukesh is also well-versed in cloud platforms, including AWS, Azure, and Google Cloud Platform (GCP).
 
 ---
 
@@ -48,8 +48,7 @@ He has successfully delivered numerous enterprise-grade applications using Java,
 
 ## 🚀 Professional Highlights
 
-- ✅ 11+ years of experience as a software consultant and architect  
-- 🧠 Founder of TechXplore.io – delivering full-cycle software development  
+- ✅ 2+ years of experience as a software developer and architect  
 - ☁️ Strong expertise in cloud-native and containerized application development  
 - 📊 Delivered scalable systems in fintech, education, travel, and healthcare domains  
 - 🔐 Focused on security, performance, CI/CD, and clean coding best practices  
@@ -58,22 +57,7 @@ He has successfully delivered numerous enterprise-grade applications using Java,
 
 Apart from his usual work, he loves contributing to the Java community in the following ways:
 
-- 🔭 &nbsp; He's a JUG Leader @ [Gujarat, Java User Group](https://gujaratjug.org) - An active community of Java Developers within the vibrant state of Gujarat.
-- 💬 &nbsp; Love sharing about his experience and challenges as a Software Engineer on Twitter, LinkedIn, Instagram, and technical blogs on various popular blogging platforms like [baeldung.com](https://www.baeldung.com/author/vikasrajput) and [freecodecamp.org](https://www.freecodecamp.org/news/author/vikasrajputin/).
-- 👨‍💻 &nbsp ;Read his full story at [vikasrajput.in](https://www.vikasrajput.in/about-me)
-- ⚡ &nbsp; He loves helping fellow developers via [topmate.io](https://topmate.io/vikasrajputin)
-- ⚡ &nbsp;For any business inquiry feel free to book 15mins with him [topmate.io](https://topmate.io/vikasrajputin/1281400)
-
-📕 &nbsp;**Vikas Rajput's Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Build AI Chatbot using Spring AI](https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/)
-- [Free 350+ Resources to Start Java Web Development Journey](https://vikasrajput.in/free-350-resources-to-start-java-web-development-journey)
-- [What is serialVersionUID in Java?](https://vikasrajput.in/what-is-serialversionuid-in-java)
-- [Top 10 Eclipse Tips and Tricks for Java Developers in 2022](https://vikasrajput.in/top-10-eclipse-tips-and-tricks-for-java-developers-in-2022)
-- [Variable Scopes in JavaScript](https://vikasrajput.in/variable-scopes-in-javascript)
-<!-- BLOG-POST-LIST:END -->
-
-🔗 &nbsp;**Connect with Vikas Rajput**
+🔗 &nbsp;**Connect with Mukesh Kumar**
 <p align="left">
 <a href="https://hashnode.com/vikasrajputin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/vikasrajputin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
