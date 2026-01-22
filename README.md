@@ -71,7 +71,7 @@ Apart from his usual work, he loves contributing to the Java community in the fo
   
 ✨ &nbsp;**GitHub Streak**
   
-[![GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats.herokuapp.com?user=mukesh8945&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mukesh8945&theme=dark)](https://git.io/streak-stats)
   
 
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
