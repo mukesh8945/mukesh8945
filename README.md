@@ -1,4 +1,4 @@
-# 👋 Welcome to Mukesh Kumar's GitHub
+# Hey 👋, I'm Mukesh Kumar
 
 ### 💼 Full Stack Developer | 🧠 Building our own business 
 
