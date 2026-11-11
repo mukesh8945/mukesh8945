@@ -111,7 +111,7 @@ Apart from his usual work, he loves contributing to the Java community in the fo
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityajha2005&theme=tokyonight&hide_border=true&border_radius=10&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=mukesh8945&theme=tokyonight&hide_border=true&border_radius=10&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D" alt="GitHub streak" />
 </p>
 
 <p align="center">
