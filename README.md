@@ -108,4 +108,19 @@ Apart from his usual work, he loves contributing to the Java community in the fo
 </p>
 
 ---
-<img alt='analytics' src='https://profile-counter.glitch.me/mukesh8945/count.svg' width='0px'>
+## 📈 GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityajha2005&theme=tokyonight&hide_border=true&border_radius=10&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityajha2005/adityajha2005/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/adityajha2005/adityajha2005/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=110&section=footer" alt="" />
+</p>
