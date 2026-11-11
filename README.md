@@ -63,7 +63,7 @@ I'm a full-stack engineer from Bihar 🇮🇳. I build tools for AI agents and d
 
 ## 🚀 Professional Highlights
 
-- ✅ 2+ years of experience as a software developer and architect  
+- ✅ 1+ years of experience as a software developer and architect  
 - ☁️ Strong expertise in cloud-native and containerized application development  
 - 📊 Delivered scalable systems in fintech, education, travel, and healthcare domains  
 - 🔐 Focused on security, performance, CI/CD, and clean coding best practices  
