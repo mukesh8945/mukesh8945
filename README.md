@@ -97,8 +97,8 @@ I'm a full-stack engineer from Bihar 🇮🇳. I build tools for AI agents and d
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityajha2005/adityajha2005/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/adityajha2005/adityajha2005/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukesh8945/mukesh8945/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mukesh8945/mukesh8945/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
   </picture>
 </p>
 
