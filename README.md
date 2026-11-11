@@ -79,10 +79,6 @@ Apart from his usual work, he loves contributing to the Java community in the fo
 <a href="https://www.linkedin.com/in/mukeshk038/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kumartribe_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29358220/mukeshku-0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-
-📊 &nbsp;**Recent Contributions**
-  
-[![Mukesh's GitHub](https://github-readme-stats.vercel.app/api?username=mukesh8945&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
   
 ## 🛠️ Tech stack
