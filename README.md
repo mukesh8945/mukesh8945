@@ -1,10 +1,25 @@
-# Hey 👋, I'm Mukesh Kumar
-# Passionate open-source developer and enthusiastic about every opportunity that comes my way 👩‍💻
-### 💼 Full Stack Developer | 🧠 Building our own business 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=190&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20engineer%20·%20AI%20agents%20·%20Dev%20tools%20·%20Open%20source&descAlignY=58&descSize=17" alt="Hey, I'm Aditya" />
+</p>
 
-**Mukesh Kumar** is a highly experienced **Java Full Stack Development** with over **2+ years of expertise** in building robust, scalable, and secure software solutions.
+<p align="center">
+  <a href="https://x.com/adxtyahq"
+  </a>
+</p>
 
-He has successfully delivered numerous enterprise-grade applications using Java, Spring Boot, Microservices architecture, Docker, and Kubernetes, along with cutting-edge frontend technologies like Angular, React, and Vue.js. Mukesh is also well-versed in cloud platforms, including AWS, Azure, and Google Cloud Platform (GCP).
+<p align="center">
+  <a href="https://x.com/adxtyahq"><img src="https://img.shields.io/badge/X-@adxtyahq-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.adityajha.site/"><img src="https://img.shields.io/badge/Portfolio-adityajha.site-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aditya-jha-654800280/"><img src="https://img.shields.io/badge/LinkedIn-Aditya_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:2005akjha@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityajha2005&style=flat-square&color=7F5AF0&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/adityajha2005?style=flat-square&color=2CB67D&label=Followers" alt="Followers" />
+</p>
+
+I'm a full-stack engineer from Delhi 🇮🇳. I build tools for AI agents and developers, and I ship Web3 products. Most weeks I'm also sending fixes to open-source projects like LiveKit and Arize.
 
 ---
 
