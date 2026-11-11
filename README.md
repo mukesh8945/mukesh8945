@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-@adxtyahq-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-@mukeshKU-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.mukesh.site/"><img src="https://img.shields.io/badge/Portfolio-mukesh.site-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mukeshku0308/"><img src="https://img.shields.io/badge/LinkedIn-Aditya_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mukeshku0308/"><img src="https://img.shields.io/badge/LinkedIn-Mukesh_Ku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mukeshku0302@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
