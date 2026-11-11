@@ -84,16 +84,12 @@ Apart from his usual work, he loves contributing to the Java community in the fo
   
 [![Mukesh's GitHub](https://github-readme-stats.vercel.app/api?username=mukesh8945&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
-✨ &nbsp;**GitHub Streak**
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikasrajputin&theme=dark)](https://git.io/streak-stats)
-  
-
 ## 🛠️ Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,spring,java,solidity&perline=12" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind,vite&perline=12" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,html,css,tailwind,vite&perline=12" alt="Frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,vercel,git&perline=12" alt="Data and infrastructure" />
 </p>
 
