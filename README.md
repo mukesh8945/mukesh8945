@@ -8,18 +8,18 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/mukeshku"><img src="https://img.shields.io/badge/X-@adxtyahq-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-@adxtyahq-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.mukesh.site/"><img src="https://img.shields.io/badge/Portfolio-mukesh.site-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mukeshku0308/"><img src="https://img.shields.io/badge/LinkedIn-Aditya_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mukeshku0302@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityajha2005&style=flat-square&color=7F5AF0&label=Profile+views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/adityajha2005?style=flat-square&color=2CB67D&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mukesh8945&style=flat-square&color=7F5AF0&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mukesh8945?style=flat-square&color=2CB67D&label=Followers" alt="Followers" />
 </p>
 
-I'm a full-stack engineer from Delhi 🇮🇳. I build tools for AI agents and developers, and I ship Web3 products. Most weeks I'm also sending fixes to open-source projects like LiveKit and Arize.
+I'm a full-stack engineer from Bihar 🇮🇳. I build tools for AI agents and developers, and I ship Web3 products. Most weeks I'm also sending fixes to open-source projects like LiveKit and Arize.
 
 ---
 
