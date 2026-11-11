@@ -92,7 +92,7 @@ Apart from his usual work, he loves contributing to the Java community in the fo
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,solidity&perline=12" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,spring,java,solidity&perline=12" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind,vite&perline=12" alt="Frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,vercel,git&perline=12" alt="Data and infrastructure" />
 </p>
@@ -116,8 +116,8 @@ Apart from his usual work, he loves contributing to the Java community in the fo
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityajha2005/adityajha2005/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/adityajha2005/adityajha2005/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukesh8945/mukesh8945/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/adityajha2005/mukesh8945/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
   </picture>
 </p>
 
