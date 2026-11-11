@@ -69,17 +69,6 @@ I'm a full-stack engineer from Bihar 🇮🇳. I build tools for AI agents and d
 - 🔐 Focused on security, performance, CI/CD, and clean coding best practices  
 
 ---
-
-Apart from his usual work, he loves contributing to the Java community in the following ways:
-
-🔗 &nbsp;**Connect with Mukesh Kumar**
-<p align="left">
-<a href="https://hashnode.com/mukeshyadavin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://x.com/kumarmukesh_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mukeshk038/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kumartribe_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29358220/mukeshku-0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-  
   
 ## 🛠️ Tech stack
 
